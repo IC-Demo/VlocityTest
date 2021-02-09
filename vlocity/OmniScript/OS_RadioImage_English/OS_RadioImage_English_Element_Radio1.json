@@ -51,7 +51,7 @@
         "options": [
             {
                 "autoAdv": null,
-                "imgId": "../servlet/servlet.FileDownload?docName=CACBACADA9caffcca6ccb40888ad983685f712759",
+                "imgId": "/servlet/servlet.FileDownload?file=015xxxxxxxxxxxxxxx&&docName=CACBACADA9caffcca6ccb40888ad983685f712759",
                 "name": "Copado",
                 "value": "Copado"
             }
